@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**FanzzModzz/FanzzModzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 𝐅𝐚𝐧𝐳𝐳𝐌𝐨𝐝𝐳𝐳 ♞
 
-Here are some ideas to get you started:
+**Mobile Developer · Security Researcher · Tool Builder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[
+
+![Telegram](https://img.shields.io/badge/Telegram-@FanzzModzz-2CA5E0?style=flat&logo=telegram)
+
+](https://t.me/FanzzModzz)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-FanzzModzz-181717?style=flat&logo=github)
+
+](https://github.com/FanzzModzz)
+
+</div>
+
+---
+
+## Who Is FanzzModzz?
+
+FanzzModzz is an independent mobile and backend developer from Indonesia, known for building interconnected app ecosystems under the **ZenithBlade** brand.
+
+Specializing in Android development with Flutter and Kotlin, backend engineering with Node.js, and security research — FanzzModzz builds tools that push the boundaries of what mobile applications can do.
+
+---
+
+## Skills
+
+- **Backend** — Node.js, Socket.IO, Express
+- **DevOps** — GitHub Actions, CI/CD, Pterodactyl
+- **Security** — Android internals, reverse engineering, vulnerability research
+- **Messaging** — WhatsApp automation via Baileys, Telegram Bot API
+
+---
+
+## Projects
+
+| Project | Description |
+|--------|-------------|
+| **ZenithBlade** | Full-featured control panel with Flutter frontend |
+| **ZenithBladeX Bot** | WhatsApp bug tool with Telegram/Whastapp bot interface |
+
+---
+
+## Contact
+
+- Telegram: [@FanzzModzz](https://t.me/FanzzModzz)
+- GitHub: [github.com/FanzzModzz](https://github.com/FanzzModzz)
+
+---
+
+<div align="center">
+<sub>Built Different.</sub>
