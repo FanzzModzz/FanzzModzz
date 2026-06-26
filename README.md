@@ -19,9 +19,14 @@
 ](https://www.kompasiana.com/fanzzdeveloper7603)
 [
 
-![IDN Times](https://img.shields.io/badge/IDN%20Times-FanzzModzz-red)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfan%20Maulana-blue)
 
-](https://idntimes.com)
+](https://www.linkedin.com/posts/irfan-maulana-130ba8366_webdeveloper-fanzzmodzz-codingindonesia-activity-7476091613040152576-yhkf)
+[
+
+![Blogger](https://img.shields.io/badge/Blog-FanzzModzz-orange)
+
+](https://fanzzmodzz.blogspot.com/2026/06/irfan-maulana-alias-fanzzmodzzdeveloper.html)
 
 ---
 
@@ -59,6 +64,8 @@ Dikenal karena membangun aplikasi dan website yang fungsional sejak usia dini, F
 - Telegram: [@FanzzModzz](https://t.me/FanzzModzz)
 - GitHub: [github.com/FanzzModzz](https://github.com/FanzzModzz)
 - Kompasiana: [Irfan Maulana - FanzzModzz](https://www.kompasiana.com/fanzzdeveloper7603)
+- LinkedIn: [Irfan Maulana](https://www.linkedin.com/posts/irfan-maulana-130ba8366_webdeveloper-fanzzmodzz-codingindonesia-activity-7476091613040152576-yhkf)
+- Blog: [FanzzModzz Blogger](https://fanzzmodzz.blogspot.com/2026/06/irfan-maulana-alias-fanzzmodzzdeveloper.html)
 
 ---
 
